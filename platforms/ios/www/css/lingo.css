@@ -1,0 +1,104 @@
+body {
+	font-family:Arial;	
+	color: #ECF0F1;
+	text-align:center;
+	margin:8px;
+}
+
+.more {
+	background-color: #414042;
+}
+
+.ends {
+	margin: 3px;
+	float: left;
+	height: 90px;
+	width: 90px;	
+	font-size: 24px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #414042;
+}
+		
+.category {
+	margin: 3px;
+	float: left;
+	height: 90px;
+	width: 90px;
+	font-size: 12px;
+}
+
+.categoryTitle {
+	background-color: #729A7A;
+	background-image:url('../img/arrow.png');
+	background-repeat:no-repeat;
+	margin:3px;
+	font-size: 24px;
+}
+
+.subCategory {
+	margin:3px;
+	padding-left: 20px;
+	height:50px;
+	text-align: left;
+	font-size: 18px;
+}
+
+.subCategoryTable {
+	height:50px;
+}
+
+.subCategoryClassification {
+	margin:3px;
+	height:100px;
+	font-size: 18px;
+}
+
+.subCategoryClassificationTable {
+	height:100px;
+	width: 100%;
+}
+
+.subCategoryClassificationCell {
+	vertical-align: middle;
+	text-align: center;
+}
+
+#lingo {
+	width: 95%;
+	margin: 0 auto;
+}
+
+#more {
+  color: white;	
+  background-color: #727e9b;
+  background-image:url('../img/arrow.png');
+  background-repeat:no-repeat;
+  text-align: center;
+  font-family: Arial;
+}
+
+img.logo {
+	display: block;
+	margin: 0 auto;
+}
+
+a.more {
+	background-color: #727e9b;	
+	color: white;
+	text-decoration: none;	
+}
+
+.moreText {
+	font-size: 20px;
+	padding:10px;
+}
+
+.moreLogo {
+	padding: 20px;
+}
+
+.moreDetails {
+	padding: 10px;
+	text-align: left;
+}
