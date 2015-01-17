@@ -1,0 +1,270 @@
+{
+  "lingo": {
+     "categories": [ 
+          {"title": "General Facts",
+              "img": "general_facts.png",
+              "subcategories": [ 
+                      { "title": "Knowledge", "ddc": "001", "lcc": "A" },
+                      { "title": "General Collections", "ddc": "080", "lcc": "AC" },
+                      { "title": "Encyclopedias", "ddc": "030", "lcc": "AE" },
+                      { "title": "Dictionaries & Other General Reference Works", "ddc": "803.0", "lcc": "AG" },
+                      { "title": "Indexes", "ddc": "050", "lcc": "AI" },
+                      { "title": "Museums. Collectors & Collecting", "ddc": "069", "lcc": "AM" },
+                      { "title": "Newspapers", "ddc": "070", "lcc": "AN" },
+                      { "title": "Periodicals", "ddc": "50.0", "lcc": "AP" },
+                      { "title": "Associations & Organizations", "ddc": "060-068", "lcc": "AS" },
+                      { "title": "Yearbooks. Almanacs. Directories", "ddc": "030", "lcc": "AY" },
+                      { "title": "Humanities", "ddc": "001", "lcc": "AZ" },
+                      { "title": "Sports & Recreation", "ddc": "790.0", "lcc": "GV" },
+                      { "title": "Library & Information Science", "ddc": "020", "lcc": "Z" }
+               ] 
+           }, 
+          {"title": "Psychology & Philosophy",
+              "img": "psychology_philosophy.png",
+              "subcategories": [ 
+                      { "title": "Philosophy", "ddc": "100.0", "lcc": "B" },
+                      { "title": "Logic", "ddc": "160.0", "lcc": "BC" },
+                      { "title": "Schools of Philosophy", "ddc": "110-140", "lcc": "BD" },
+                      { "title": "Psychology", "ddc": "150.0", "lcc": "BF" },
+                      { "title": "Aesthetics", "ddc": "111.85", "lcc": "BH" },
+                      { "title": "Ethics", "ddc": "170.0", "lcc": "BJ" }
+               ] 
+           }, 
+          {"title": "Religion",
+              "img": "religion.png",
+              "subcategories": [ 
+                      { "title": "Religion", "ddc": "200.0", "lcc": "BL" },
+                      { "title": "Judaism", "ddc": "296.0", "lcc": "BM" },
+                      { "title": "Islam, Babism, Bahai Faith", "ddc": "297.0", "lcc": "BP" },
+                      { "title": "Buddhism", "ddc": "294.3", "lcc": "BQ" },
+                      { "title": "Christianity", "ddc": "230.0", "lcc": "BR" },
+                      { "title": "Bible", "ddc": "220.0", "lcc": "BS" },
+                      { "title": "Christian Theology", "ddc": "230.0", "lcc": "BT" },
+                      { "title": "Christian Practice & Organization", "ddc": "240-260", "lcc": "BV" },
+                      { "title": "Christian Denominations", "ddc": "280.0", "lcc": "BX" }
+               ] 
+           }, 
+          {"title": "Civilization",
+              "img": "civilization.png",
+              "subcategories": [ 
+                      { "title": "History of Civilization", "ddc": "909.0", "lcc": "CB" },
+                      { "title": "Archaeology", "ddc": "930.1", "lcc": "CC" },
+                      { "title": "Diplomatics. Archives. Seals", "ddc": "929.1 - 929.3", "lcc": "CD" },
+                      { "title": "Calendars", "ddc": "529.0", "lcc": "CE" },
+                      { "title": "Coins & Numismatics", "ddc": "737.0", "lcc": "CJ" },
+                      { "title": "Writing Systems", "ddc": "411.7", "lcc": "CN" },
+                      { "title": "Heraldry", "ddc": "929.6", "lcc": "CR" },
+                      { "title": "Genealogy", "ddc": "920.0", "lcc": "CS" },
+                      { "title": "Biography", "ddc": "920.0", "lcc": "CT" },
+                      { "title": "Customs", "ddc": "390.0", "lcc": "GT" }
+               ] 
+           }, 
+          {"title": "History",
+              "img": "history.png",
+              "subcategories": [ 
+                      { "title": "History", "ddc": "900.0", "lcc": "D" },
+                      { "title": "History of Ancient World", "ddc": "930.0", "lcc": "D51-90" },
+                      { "title": "History of Britain", "ddc": "942.0", "lcc": "DA" },
+                      { "title": "History of Austria & Liechtenstein", "ddc": "943.6-94.9", "lcc": "DB-DL" },
+                      { "title": "History of Asia", "ddc": "950.0", "lcc": "DS" },
+                      { "title": "History of Africa", "ddc": "960.0", "lcc": "DT" },
+                      { "title": "History of Oceania", "ddc": "990.0", "lcc": "DU" },
+                      { "title": "History of United States", "ddc": "973.0", "lcc": "E" },
+                      { "title": "History of North America", "ddc": "970.0", "lcc": "F" }
+               ] 
+           }, 
+          {"title": "Geography",
+              "img": "geography.png",
+              "subcategories": [ 
+                      { "title": "Geography", "ddc": "900.0", "lcc": "G" },
+                      { "title": "Cartography", "ddc": "912.0", "lcc": "GA" },
+                      { "title": "Physical Geography", "ddc": "551.4", "lcc": "GB" },
+                      { "title": "Oceanography", "ddc": "551.46", "lcc": "GC" },
+                      { "title": "Environmental Sciences", "ddc": "333.7", "lcc": "GE" },
+                      { "title": "Human Ecology", "ddc": "304.0", "lcc": "GF" },
+                      { "title": "Anthropology", "ddc": "301.0", "lcc": "GN" }
+               ] 
+           }, 
+          {"title": "Social Sciences",
+              "img": "social_sciences.png",
+              "subcategories": [ 
+                      { "title": "Social Sciences", "ddc": "300.0", "lcc": "H" },
+                      { "title": "Social Services", "ddc": "360.0", "lcc": "H" },
+                      { "title": "Social Science Statistics", "ddc": "310.0", "lcc": "HA" },
+                      { "title": "Economics", "ddc": "330.0", "lcc": "HB" },
+                      { "title": "Economic History", "ddc": "330.9", "lcc": "HC" },
+                      { "title": "Labor Economics", "ddc": "331-338", "lcc": "HD" },
+                      { "title": "Communications", "ddc": "384.0", "lcc": "HE" },
+                      { "title": "Domestic & International Commerce", "ddc": "380.0", "lcc": "HF" },
+                      { "title": "Finance", "ddc": "332.0", "lcc": "HG" },
+                      { "title": "Public Finance", "ddc": "336.0", "lcc": "HJ" },
+                      { "title": "Sociology", "ddc": "301.0", "lcc": "HM" },
+                      { "title": "Social Welfare Problems & Services", "ddc": "362.0", "lcc": "HN" },
+                      { "title": "The Family. Marriage. Women", "ddc": "649.1-641.7", "lcc": "HQ" },
+                      { "title": "Societies", "ddc": "366.0", "lcc": "HS" },
+                      { "title": "Social Pathology. Social & Public Welfare. Criminology", "ddc": "364.0", "lcc": "HV" },
+                      { "title": "Socialism. Communism. Anarchism", "ddc": "335.0", "lcc": "HX" }
+               ] 
+           }, 
+          {"title": "Political Science",
+              "img": "political_science.png",
+              "subcategories": [ 
+                      { "title": "Political Science", "ddc": "320.0", "lcc": "J" },
+                      { "title": "Political Science (General)", "ddc": "320.0", "lcc": "JA" },
+                      { "title": "Political Theory", "ddc": "320.5", "lcc": "JC" },
+                      { "title": "Public Administration", "ddc": "350.0", "lcc": "JF" },
+                      { "title": "United States Government & Politics", "ddc": "320.973", "lcc": "JK" },
+                      { "title": "Political Institutions (Canada, Latin America, etc.)", "ddc": "320.971", "lcc": "JL" },
+                      { "title": "European Government & Politics", "ddc": "320.94", "lcc": "JN" },
+                      { "title": "Political Institutions (Asia, Africa, Australia, Pacific Area, etc.)", "ddc": "320.95-320.969", "lcc": "JQ" },
+                      { "title": "Local Government", "ddc": "352.0", "lcc": "JS" },
+                      { "title": "International Relations", "ddc": "327.0", "lcc": "JZ" }
+               ] 
+           }, 
+          {"title": "Law",
+              "img": "law.png",
+              "subcategories": [ 
+                      { "title": "Law", "ddc": "340.0", "lcc": "K" },
+                      { "title": "Religious Law", "ddc": "346.0", "lcc": "KB" },
+                      { "title": "Law of Canada", "ddc": "340.971", "lcc": "KE" },
+                      { "title": "Law of United States", "ddc": "340.973", "lcc": "KF" },
+                      { "title": "Law of Europe", "ddc": "340.94", "lcc": "KJ-KK" },
+                      { "title": "Law of Asia & Eurasia, Africa, Pacific Area, & Antarctica", "ddc": "340.95-340.969", "lcc": "KL-KW" },
+                      { "title": "International Law", "ddc": "341.0", "lcc": "KZ" }
+               ] 
+           }, 
+          {"title": "Education",
+              "img": "education.png",
+              "subcategories": [ 
+                      { "title": "Education", "ddc": "370.0", "lcc": "L" },
+                      { "title": "History of Education", "ddc": "370.9", "lcc": "LA" },
+                      { "title": "Theory & Practice of Education", "ddc": "370.1", "lcc": "LB" },
+                      { "title": "Education in the United States", "ddc": "378.73-378.79", "lcc": "LD" },
+                      { "title": "Education in Europe", "ddc": "378.4", "lcc": "LF" },
+                      { "title": "Education in Asia, Africa, Oceania", "ddc": "378.5-378.6", "lcc": "LG" },
+                      { "title": "College & School Magazines & Papers", "ddc": "378.0", "lcc": "LH" }
+               ] 
+           }, 
+          {"title": "Music",
+              "img": "music.png",
+              "subcategories": [ 
+                      { "title": "Music", "ddc": "780.0", "lcc": "M" },
+                      { "title": "Orchestras, Ensembles", "ddc": "784.0", "lcc": "M1000-1075" },
+                      { "title": "Vocal Music", "ddc": "782.0", "lcc": "M1495-5000" },
+                      { "title": "Music for Solo Voice", "ddc": "783.0", "lcc": "M1528-1529.5" },
+                      { "title": "Instruction & Study", "ddc": "781.0", "lcc": "MT" },
+                      { "title": "Keyboard Instrument", "ddc": "786.0", "lcc": "MT180-255" },
+                      { "title": "Strings", "ddc": "787.0", "lcc": "MT259-338" },
+                      { "title": "Wind", "ddc": "788.0", "lcc": "MT339-533" }
+               ] 
+           }, 
+          {"title": "Fine Arts",
+              "img": "fine_arts.png",
+              "subcategories": [ 
+                      { "title": "Visual Arts", "ddc": "700.0", "lcc": "N" },
+                      { "title": "Architecture", "ddc": "720.0", "lcc": "NA" },
+                      { "title": "Sculpture", "ddc": "730.0", "lcc": "NB" },
+                      { "title": "Drawing", "ddc": "740.0", "lcc": "NC" },
+                      { "title": "Painting", "ddc": "750.0", "lcc": "ND" },
+                      { "title": "Print Media", "ddc": "760.0", "lcc": "NE" },
+                      { "title": "Photography & Photographs", "ddc": "770.0", "lcc": "TR" },
+                      { "title": "Interior Design & Applied Arts", "ddc": "740.0", "lcc": "NK" }
+               ] 
+           }, 
+          {"title": "Language & Literature",
+              "img": "language_literature.png",
+              "subcategories": [ 
+                      { "title": "Linguistics", "ddc": "400.0", "lcc": "P" },
+                      { "title": "Literature & Rhetoric", "ddc": "800.0", "lcc": "P" },
+                      { "title": "Ancient Languages", "ddc": "470.0", "lcc": "PA" },
+                      { "title": "Romance Languages", "ddc": "450.0", "lcc": "PC" },
+                      { "title": "Germanic Languages", "ddc": "430.0", "lcc": "PD" },
+                      { "title": "English Language", "ddc": "420.0", "lcc": "PE" },
+                      { "title": "West Germanic Languages", "ddc": "430-439", "lcc": "PF" },
+                      { "title": "Asian Languages & Literature", "ddc": "492.0", "lcc": "PJ" },
+                      { "title": "Languages of Eastern Asia, Africa, Oceania", "ddc": "494.0", "lcc": "PL" },
+                      { "title": "North & South American Languages", "ddc": "497.0", "lcc": "PM" },
+                      { "title": "General Literature", "ddc": "890.0", "lcc": "PN" },
+                      { "title": "European Literature", "ddc": "840.0", "lcc": "PQ" },
+                      { "title": "English Literature", "ddc": "820.0", "lcc": "PR" },
+                      { "title": "American Literature", "ddc": "810.0", "lcc": "PS" },
+                      { "title": "German Literature", "ddc": "830.0", "lcc": "PT" },
+                      { "title": "Folklore", "ddc": "390.0", "lcc": "GR" }
+               ] 
+           }, 
+          {"title": "Math",
+              "img": "math.png",
+              "subcategories": [ 
+                      { "title": "Mathematics", "ddc": "510.0", "lcc": "QA" },
+                      { "title": "Arithmetic", "ddc": "513.0", "lcc": "QA101-145" },
+                      { "title": "Algebra", "ddc": "512.0", "lcc": "QA150-272" },
+                      { "title": "Probability, Statistics, Numerical Analysis", "ddc": "519.0", "lcc": "QA273-299" },
+                      { "title": "Analysis / Calculus", "ddc": "515.0", "lcc": "QA299-433" },
+                      { "title": "Geometry", "ddc": "516.0", "lcc": "QA440-611" }
+               ] 
+           }, 
+          {"title": "Science",
+              "img": "science.png",
+              "subcategories": [ 
+                      { "title": "Natural Sciences", "ddc": "500.0", "lcc": "Q" },
+                      { "title": "Astronomy", "ddc": "520.0", "lcc": "QB" },
+                      { "title": "Physics", "ddc": "530.0", "lcc": "QC" },
+                      { "title": "Chemistry", "ddc": "540.0", "lcc": "QD" },
+                      { "title": "Geology", "ddc": "550.0", "lcc": "QE" },
+                      { "title": "Biology", "ddc": "574.0", "lcc": "QH" },
+                      { "title": "Botany", "ddc": "581.0", "lcc": "QK" },
+                      { "title": "Zoology", "ddc": "590.0", "lcc": "QL" }
+               ] 
+           }, 
+          {"title": "Medicine",
+              "img": "medicine.png",
+              "subcategories": [ 
+                      { "title": "Medicine", "ddc": "610.0", "lcc": "R" },
+                      { "title": "Surgery & Related Topics", "ddc": "617.0", "lcc": "RD" },
+                      { "title": "Gynecology", "ddc": "618.0", "lcc": "RG" },
+                      { "title": "Pediatrics", "ddc": "618", "lcc": "RJ" },
+                      { "title": "Dentistry", "ddc": "617.6", "lcc": "RK" },
+                      { "title": "Dermatology", "ddc": "611.77-616.5", "lcc": "RL" },
+                      { "title": "Nursing", "ddc": "610.73", "lcc": "RT" },
+                      { "title": "Homeopathy", "ddc": "615.532", "lcc": "RX" },
+                      { "title": "Human Anatomy", "ddc": "611.0", "lcc": "QM" },
+                      { "title": "Human Physiology", "ddc": "612.0", "lcc": "QP" },
+                      { "title": "Pharmacology & Therapeutics", "ddc": "615.0", "lcc": "RM" }
+               ] 
+           }, 
+          {"title": "Agriculture",
+              "img": "agriculture.png",
+              "subcategories": [ 
+                      { "title": "Agriculture", "ddc": "630.0", "lcc": "S" },
+                      { "title": "Horticulture & Gardening", "ddc": "634.0", "lcc": "SB" },
+                      { "title": "Forestry", "ddc": "634.0", "lcc": "SD" },
+                      { "title": "Animal Husbandry & Farming", "ddc": "636.0", "lcc": "SF" },
+                      { "title": "Hunting, Fishing", "ddc": "639.0", "lcc": "SH-SK" }
+               ] 
+           }, 
+          {"title": "Technology",
+              "img": "technology.png",
+              "subcategories": [ 
+                      { "title": "Technology (Applied Sciences)", "ddc": "600.0", "lcc": "T" },
+                      { "title": "Civil Engineering", "ddc": "624.0", "lcc": "TA" },
+                      { "title": "Hydraulic Engineering", "ddc": "627.0", "lcc": "TC" },
+                      { "title": "Sanitary & Engineering", "ddc": "628.0", "lcc": "TD" },
+                      { "title": "Highway Engineering", "ddc": "625.0", "lcc": "TE" },
+                      { "title": "Engineering of Railways", "ddc": "625.0", "lcc": "TF" },
+                      { "title": "Building Construction", "ddc": "690.0", "lcc": "TH" },
+                      { "title": "Mechanical Engineering", "ddc": "621.0", "lcc": "TJ" },
+                      { "title": "Mining Engineering & Metallurgy", "ddc": "622.0", "lcc": "TN" },
+                      { "title": "Handicrafts", "ddc": "680.0", "lcc": "TT" },
+                      { "title": "Home Economics", "ddc": "640.0", "lcc": "TX" }
+               ] 
+           }, 
+          {"title": "Military",
+              "img": "military.png",
+              "subcategories": [ 
+                      { "title": "Military Science", "ddc": "355.0", "lcc": "U" },
+                      { "title": "Nautical Engineering", "ddc": "623.0", "lcc": "VM" }
+               ] 
+           } 
+   ]
+  }
+}
